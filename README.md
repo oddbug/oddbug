@@ -1,5 +1,5 @@
 <p align="center">
-  <h3 align="center">Hello, Word!</h3>
+  <h1 align="center">Hello, Word!</h1>
 </p>
 
 <p align="center">
