@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=但知行好事,莫要问前!;朝闻道，夕死可矣!;Once enlightened, one can die happily.!&font=Fira%20Code&center=true&width=600&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com/?lines=但知行好事,莫要问前程!;朝闻道，夕死可矣!;Once enlightened, one can die happily.!&font=Fira%20Code&center=true&width=600&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
 </p>
 
 ![](https://github.com/oddbug/oddbug/blob/static/header_.png)
