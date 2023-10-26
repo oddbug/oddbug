@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&pause=1000&center=%E7%9C%9F%E7%9A%84&vCenter=%E7%9C%9F%E7%9A%84&multiline=true&repeat=%E7%9C%9F%E7%9A%84&random=%E7%9C%9F%E7%9A%84&width=435&lines=%E4%BD%86%E7%9F%A5%E8%A1%8C%E5%A5%BD%E4%BA%8B%2C%E8%8E%AB%E8%A6%81%E9%97%AE%E5%89%8D%E7%A8%8B" alt="Typing SVG" /></a>
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines= 但知行好事,莫要问前程...)](https://git.io/typing-svg)
 
 
 ![](https://github.com/oddbug/oddbug/blob/static/header_.png)
