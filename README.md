@@ -1,6 +1,6 @@
 <p align="center">
 
-### Hello, Word!
+Hello, Word!
 
 </p>
 
