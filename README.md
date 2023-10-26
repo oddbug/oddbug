@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![](https://github.com/oddbug/oddbug/blob/output/header_.png)
+![](https://github.com/oddbug/oddbug/blob/static/header_.png)
 
 **oddbug/oddbug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
