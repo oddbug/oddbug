@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines= 但知行好事,莫要问前程...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=但知行好事,莫要问前程)](https://git.io/typing-svg)
 
 
 ![](https://github.com/oddbug/oddbug/blob/static/header_.png)
