@@ -1,7 +1,5 @@
 <p align="center">
-
-Hello, Word!
-
+  <h3 align="center">Hello, Word!</h3>
 </p>
 
 <p align="center">
